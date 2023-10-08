@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <h1>Let's break git</h1>
+    <h1>Hello World!</h1>
   );
 }
 
